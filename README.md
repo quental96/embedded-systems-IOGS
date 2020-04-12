@@ -12,4 +12,4 @@ Course material for embedded systems at IOGS.
 
 ## Microchip: PIC16F1503
 
-![](images/microchip)
+![](images/microchip.png)
